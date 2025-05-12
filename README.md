@@ -39,7 +39,7 @@ It was a great learning experience to understand how to:
 
 ## Preview
 
-![Omnifood Preview](./screenshot.png)
+![Omnifood Screenshot](./screenshot.png)
 
 ---
 
