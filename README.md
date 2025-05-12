@@ -65,6 +65,12 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/geetika-maurya-4008372
 
 ---
 
+## Deployment
+
+This project was deployed using Netlify(https://app.netlify.com/), providing fast and reliable hosting for sites.
+
+---
+
 ## License
 
 This project is for **learning purposes only**. All design credits go to the original course/instructor.
