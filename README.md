@@ -67,7 +67,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/geetika-maurya-4008372
 
 ## Deployment
 
-This project was deployed using Netlify(https://app.netlify.com/), providing fast and reliable hosting for sites.
+This project was deployed using [Netlify](https://app.netlify.com/), providing fast and reliable hosting for sites.
 
 ---
 
